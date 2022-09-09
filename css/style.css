@@ -6,7 +6,7 @@
 }
 html{
   /* background-image: url("tree.jpg"); */
-  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("./img/muo.jpg");
+  background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url("../img/muo.jpg");
   background-repeat:no-repeat ;
   background-position: center;
   background-size: cover;
